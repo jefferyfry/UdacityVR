@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VRND-Course2/Scenes/VRND-Course2.unity
+- path: Assets/CreatingShaders.unity
   isLoaded: 1
   isActive: 1
