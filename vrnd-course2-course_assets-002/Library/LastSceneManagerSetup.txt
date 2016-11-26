@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CreatingShaders.unity
+- path: Assets/VRND-Course2/Scenes/AnimationApartment.unity
   isLoaded: 1
   isActive: 1
